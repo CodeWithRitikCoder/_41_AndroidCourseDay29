@@ -17,7 +17,7 @@ Day-29 of Android Course:- Simple Video Player Android Application
 <!--       <img align="center" src="https://github.com/CodeWithRitikCoder/_41_AndroidCourseDay29/blob/master/app/src/main/res/drawable/screen_shot_1.png" alt="ScreenShort 1 of Application" height="500" width="250" /> -->
     </td>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/_41_AndroidCourseDay29/blob/master/app/src/main/res/drawable/screen_shot_1.png" alt="ScreenShort 2 of Application"  width="250" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/_41_AndroidCourseDay29/blob/master/app/src/main/res/drawable/screen_shot_1.png" alt="ScreenShort 2 of Application"  width="280" />
     </td>
     <td>
       <img align="center" src="https://github.com/CodeWithRitikCoder/_41_AndroidCourseDay29/blob/master/app/src/main/res/drawable/screen_shot_2.png" alt="ScreenShort 3 of Application" width="280" />
@@ -25,7 +25,7 @@ Day-29 of Android Course:- Simple Video Player Android Application
   </tr>
   <tr>
     <td>
-      <img align="center" src="https://github.com/CodeWithRitikCoder/_41_AndroidCourseDay29/blob/master/app/src/main/res/drawable/screen_shot_3.png" alt="ScreenShort 4 of Application" width="280" />
+      <img align="center" src="https://github.com/CodeWithRitikCoder/_41_AndroidCourseDay29/blob/master/app/src/main/res/drawable/screen_shot_3.png" alt="ScreenShort 4 of Application" width="230" />
     </td>
     <td>
       <img align="center" src="https://github.com/CodeWithRitikCoder/_41_AndroidCourseDay29/blob/master/app/src/main/res/drawable/screen_shot_4.png" alt="ScreenShort 5 of Application" width="280" />
