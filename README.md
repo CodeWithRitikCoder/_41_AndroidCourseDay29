@@ -12,8 +12,8 @@ Day-29 of Android Course:- Simple Video Player Android Application
 <h2>&#8649 My Application Preview ScreenShots</h2>
 <table border="5px" style="border-collapse: collapse;">
   <tr>
-    <td>
-      <video src="https://github.com/CodeWithRitikCoder/_41_AndroidCourseDay29/assets/132076091/c42e6849-0514-4743-b18b-09e8c34e5d09" width="200" autoplay loop controls></video>
+    <td><center>
+      <video src="https://github.com/CodeWithRitikCoder/_41_AndroidCourseDay29/assets/132076091/c42e6849-0514-4743-b18b-09e8c34e5d09" width="150" autoplay loop controls></video></center>
 <!--       <img align="center" src="https://github.com/CodeWithRitikCoder/_41_AndroidCourseDay29/blob/master/app/src/main/res/drawable/screen_shot_1.png" alt="ScreenShort 1 of Application" height="500" width="250" /> -->
     </td>
     <td>
