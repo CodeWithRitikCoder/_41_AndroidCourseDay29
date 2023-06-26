@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project 29 of Android Dev_Video Player1</string>
+    <string name="video_player">Video Player</string>
+    <string name="click_inside_the_block">Click inside the Video block \n To Play</string>
+</resources>
